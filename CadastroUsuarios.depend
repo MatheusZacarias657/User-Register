@@ -1,0 +1,201 @@
+# depslib dependency file v1.0
+1590519501 source:c:\users\mathe\onedrive\documentos\trabalhos\facens\1° semestre\algoritmo\exercicios algoritmos\projeto\cadastrousuarios\criptografia.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"criptografia.h"
+	"cadastraUsuario.h"
+	"trataHexa.h"
+
+1590517278 c:\users\mathe\onedrive\documentos\trabalhos\facens\1° semestre\algoritmo\exercicios algoritmos\projeto\cadastrousuarios\criptografia.h
+	"trataTxt.h"
+
+1590514815 source:c:\users\mathe\onedrive\documentos\trabalhos\facens\1° semestre\algoritmo\exercicios algoritmos\projeto\cadastrousuarios\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"trataTxt.h"
+	"cadastraUsuario.h"
+
+1590515320 c:\users\mathe\onedrive\documentos\trabalhos\facens\1° semestre\algoritmo\exercicios algoritmos\projeto\cadastrousuarios\cadastrausuario.h
+	<stdbool.h>
+
+1590515447 c:\users\mathe\onedrive\documentos\trabalhos\facens\1° semestre\algoritmo\exercicios algoritmos\projeto\cadastrousuarios\cabecalho.h
+
+1606786358 source:c:\users\mathe\onedrive\documentos\trabalhos\facens\1° semestre\algoritmo\exercicios algoritmos\projeto\cadastrousuarios\cabecalho.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"cabecalho.h"
+
+1590516970 source:c:\users\mathe\onedrive\documentos\trabalhos\facens\1° semestre\algoritmo\exercicios algoritmos\projeto\cadastrousuarios\cadastrausuario.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	"cabecalho.h"
+	"cadastraUsuario.h"
+	"trataTxt.h"
+	"descriptografia.h"
+
+1590518035 source:c:\users\mathe\onedrive\documentos\trabalhos\facens\1° semestre\algoritmo\exercicios algoritmos\projeto\cadastrousuarios\tratahexa.c
+	<stdio.h>
+	<stdlib.h>
+	"trataHexa.h"
+
+1590517991 c:\users\mathe\onedrive\documentos\trabalhos\facens\1° semestre\algoritmo\exercicios algoritmos\projeto\cadastrousuarios\tratahexa.h
+
+1590540159 source:c:\users\mathe\onedrive\documentos\trabalhos\facens\1° semestre\algoritmo\exercicios algoritmos\projeto\cadastrousuarios\tratatxt.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<stdbool.h>
+	"trataTxt.h"
+	"descriptografia.h"
+
+1590517643 c:\users\mathe\onedrive\documentos\trabalhos\facens\1° semestre\algoritmo\exercicios algoritmos\projeto\cadastrousuarios\tratatxt.h
+
+1590515272 c:\users\mathe\onedrive\documentos\trabalhos\facens\1° semestre\algoritmo\exercicios algoritmos\projeto\cadastrousuarios\menu.h
+
+1590519447 source:c:\users\mathe\onedrive\documentos\trabalhos\facens\1° semestre\algoritmo\exercicios algoritmos\projeto\cadastrousuarios\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	"cabecalho.h"
+	"menu.h"
+	"cadastraUsuario.h"
+	"consultaCadastro.h"
+	"trataTxt.h"
+	"criptografia.h"
+
+1590539785 source:c:\users\mathe\onedrive\documentos\trabalhos\facens\1° semestre\algoritmo\exercicios algoritmos\projeto\cadastrousuarios\consultacadastro.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"trataTxt.h"
+	"cabecalho.h"
+	"consultaCadastro.h"
+	"descriptografia.h"
+	"criptografia.h"
+	"cadastraUsuario.h"
+	"menu.h"
+
+1590518933 c:\users\mathe\onedrive\documentos\trabalhos\facens\1° semestre\algoritmo\exercicios algoritmos\projeto\cadastrousuarios\consultacadastro.h
+	"cadastraUsuario.h"
+
+1590518641 source:c:\users\mathe\onedrive\documentos\trabalhos\facens\1° semestre\algoritmo\exercicios algoritmos\projeto\cadastrousuarios\descriptografia.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"trataHexa.h"
+	"descriptografia.h"
+	"consultaCadastro.h"
+
+1590518496 c:\users\mathe\onedrive\documentos\trabalhos\facens\1° semestre\algoritmo\exercicios algoritmos\projeto\cadastrousuarios\descriptografia.h
+
+1590515485 source:c:\users\mathe\onedrive\documentos\trabalhos\facens\1 semestre\algoritmo\exercicios algoritmos\projeto\cadastrousuarios\cabecalho.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"cabecalho.h"
+
+1590515447 c:\users\mathe\onedrive\documentos\trabalhos\facens\1 semestre\algoritmo\exercicios algoritmos\projeto\cadastrousuarios\cabecalho.h
+
+1590516970 source:c:\users\mathe\onedrive\documentos\trabalhos\facens\1 semestre\algoritmo\exercicios algoritmos\projeto\cadastrousuarios\cadastrausuario.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<locale.h>
+	<time.h>
+	"cabecalho.h"
+	"cadastraUsuario.h"
+	"trataTxt.h"
+	"descriptografia.h"
+
+1590515320 c:\users\mathe\onedrive\documentos\trabalhos\facens\1 semestre\algoritmo\exercicios algoritmos\projeto\cadastrousuarios\cadastrausuario.h
+	<stdbool.h>
+
+1590517643 c:\users\mathe\onedrive\documentos\trabalhos\facens\1 semestre\algoritmo\exercicios algoritmos\projeto\cadastrousuarios\tratatxt.h
+
+1590518496 c:\users\mathe\onedrive\documentos\trabalhos\facens\1 semestre\algoritmo\exercicios algoritmos\projeto\cadastrousuarios\descriptografia.h
+
+1590539785 source:c:\users\mathe\onedrive\documentos\trabalhos\facens\1 semestre\algoritmo\exercicios algoritmos\projeto\cadastrousuarios\consultacadastro.c
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"trataTxt.h"
+	"cabecalho.h"
+	"consultaCadastro.h"
+	"descriptografia.h"
+	"criptografia.h"
+	"cadastraUsuario.h"
+	"menu.h"
+
+1590518933 c:\users\mathe\onedrive\documentos\trabalhos\facens\1 semestre\algoritmo\exercicios algoritmos\projeto\cadastrousuarios\consultacadastro.h
+	"cadastraUsuario.h"
+
+1590517278 c:\users\mathe\onedrive\documentos\trabalhos\facens\1 semestre\algoritmo\exercicios algoritmos\projeto\cadastrousuarios\criptografia.h
+	"trataTxt.h"
+
+1590515272 c:\users\mathe\onedrive\documentos\trabalhos\facens\1 semestre\algoritmo\exercicios algoritmos\projeto\cadastrousuarios\menu.h
+
+1590519501 source:c:\users\mathe\onedrive\documentos\trabalhos\facens\1 semestre\algoritmo\exercicios algoritmos\projeto\cadastrousuarios\criptografia.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"criptografia.h"
+	"cadastraUsuario.h"
+	"trataHexa.h"
+
+1590517991 c:\users\mathe\onedrive\documentos\trabalhos\facens\1 semestre\algoritmo\exercicios algoritmos\projeto\cadastrousuarios\tratahexa.h
+
+1590518641 source:c:\users\mathe\onedrive\documentos\trabalhos\facens\1 semestre\algoritmo\exercicios algoritmos\projeto\cadastrousuarios\descriptografia.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"trataHexa.h"
+	"descriptografia.h"
+	"consultaCadastro.h"
+
+1590514815 source:c:\users\mathe\onedrive\documentos\trabalhos\facens\1 semestre\algoritmo\exercicios algoritmos\projeto\cadastrousuarios\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	"trataTxt.h"
+	"cadastraUsuario.h"
+
+1590519447 source:c:\users\mathe\onedrive\documentos\trabalhos\facens\1 semestre\algoritmo\exercicios algoritmos\projeto\cadastrousuarios\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	"cabecalho.h"
+	"menu.h"
+	"cadastraUsuario.h"
+	"consultaCadastro.h"
+	"trataTxt.h"
+	"criptografia.h"
+
+1590518035 source:c:\users\mathe\onedrive\documentos\trabalhos\facens\1 semestre\algoritmo\exercicios algoritmos\projeto\cadastrousuarios\tratahexa.c
+	<stdio.h>
+	<stdlib.h>
+	"trataHexa.h"
+
+1590540159 source:c:\users\mathe\onedrive\documentos\trabalhos\facens\1 semestre\algoritmo\exercicios algoritmos\projeto\cadastrousuarios\tratatxt.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<windows.h>
+	<stdbool.h>
+	"trataTxt.h"
+	"descriptografia.h"
+
